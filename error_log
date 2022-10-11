@@ -1,0 +1,52 @@
+[19-Mar-2022 12:59:59 Africa/Cairo] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 10
+[19-Mar-2022 12:59:59 Africa/Cairo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, string given in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 10
+[19-Mar-2022 14:26:35 Africa/Cairo] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 10
+[19-Mar-2022 14:26:35 Africa/Cairo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, string given in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 10
+[19-Mar-2022 14:29:04 Africa/Cairo] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 10
+[19-Mar-2022 14:29:04 Africa/Cairo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, string given in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 10
+[19-Mar-2022 19:28:17 Africa/Cairo] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 10
+[19-Mar-2022 19:28:17 Africa/Cairo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, string given in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 10
+[19-Mar-2022 19:29:04 Africa/Cairo] PHP Warning:  Use of undefined constant db - assumed 'db' (this will throw an Error in a future version of PHP) in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 10
+[19-Mar-2022 19:29:04 Africa/Cairo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, string given in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 10
+[07-May-2022 17:48:42 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[07-May-2022 18:10:49 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[07-May-2022 18:36:44 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[07-May-2022 18:58:49 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[07-May-2022 19:14:11 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[07-May-2022 19:44:12 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[10-Jun-2022 17:37:08 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[11-Jun-2022 02:25:12 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[16-Jun-2022 07:45:51 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[16-Jun-2022 07:51:13 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[16-Jun-2022 07:51:20 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[16-Jun-2022 08:01:48 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[16-Jun-2022 08:02:05 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[16-Jun-2022 08:02:06 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[18-Jul-2022 21:06:22 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[18-Jul-2022 21:08:19 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[18-Jul-2022 21:08:41 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[18-Jul-2022 21:08:50 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[18-Jul-2022 21:09:14 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[18-Jul-2022 21:09:19 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[18-Jul-2022 21:11:47 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[18-Jul-2022 21:18:09 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[18-Jul-2022 21:20:27 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[18-Jul-2022 21:20:30 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[18-Jul-2022 21:20:35 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[18-Jul-2022 21:20:45 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[21-Jul-2022 19:22:52 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[27-Jul-2022 18:53:58 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[29-Jul-2022 14:54:54 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[30-Jul-2022 14:03:30 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[30-Jul-2022 17:49:31 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[14-Aug-2022 20:35:58 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[14-Aug-2022 20:36:12 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[14-Aug-2022 20:36:18 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[14-Aug-2022 23:55:14 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[15-Aug-2022 00:02:49 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[08-Sep-2022 15:59:35 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[13-Sep-2022 19:19:46 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[13-Sep-2022 19:19:56 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[13-Sep-2022 19:19:57 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[19-Sep-2022 23:03:50 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
+[09-Oct-2022 20:19:11 Africa/Cairo] PHP Notice:  Undefined variable: city in /home/c1ym7jmuy35u/public_html/asclepius/index.php on line 263
